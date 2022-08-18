@@ -1,0 +1,46 @@
+_repo: The-emerald-of-Catherine-the-Great_68727
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    aliases:
+    - Belloc, H.
+    - Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2022-08-11'
+identifiers:
+  gutenberg: '68727'
+  lccn: '26020761'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000471685
+pgterms:marc905: 20220708024412belloc
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Harper & brothers,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 20th century'
+- GITenberg
+title: The emerald of Catherine the Great
+url: http://www.gutenberg.org/ebooks/68727
